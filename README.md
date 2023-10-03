@@ -1,2 +1,2 @@
 # Animal-Trading-Card-Project 
-HTML and CSS documents for Animal Card
+Completed HTML and CSS code for Udacity Animal Card Project.
